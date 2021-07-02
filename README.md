@@ -1,6 +1,6 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
-![alt text](https://github.com/erinlzheng/plotly-challenge/blob/main/Bellybuttonbiodiversity/static/Images/bacteria.jpg?raw=true)
+![alt text](https://github.com/erinlzheng/plotly-challenge/blob/main/Images/bacteria.jpg?raw=true)
 
 ## Background
 
