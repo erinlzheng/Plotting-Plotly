@@ -52,6 +52,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
   5. `shape`
 
 - - -
+![image](https://user-images.githubusercontent.com/80232765/124222883-99018b00-dad0-11eb-865f-e1bf0a581e3c.png)
 
 ### Dataset
 
