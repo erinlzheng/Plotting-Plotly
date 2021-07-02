@@ -1,6 +1,6 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
-![Bacteria by filterforge.com](Images/bacteria.jpg)
+![alt text](https://github.com/erinlzheng/plotly-challenge/blob/main/bacteria.jpg?raw=true)
 
 ## Background
 
